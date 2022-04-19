@@ -7,7 +7,7 @@ I created this portfolio with future employers in mind. This is a space for me t
 ### Usage:
 Deployed link: https://akaur09.github.io/upgraded-portfolio/
 
-add screenshot of webpage
+![Alt img](./Images/screenshot.png)
 
 ## Lanuages Used:
 HTML
