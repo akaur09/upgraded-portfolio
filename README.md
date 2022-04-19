@@ -6,15 +6,18 @@ why:
 how:
 
 ### Usage:
+Deployed link: https://akaur09.github.io/upgraded-portfolio/
+
+add screenshot of webpage
 
 ## Lanuages Used:
 HTML
 CSS
 JavaScript
-
+Materalize
 
 ## Credibility:
-
+This webpage was created by me
 
 ## License
 MIT License
