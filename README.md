@@ -1,9 +1,8 @@
 # upgraded-portfolio
 
 ## Description:
-what:
-why:
-how:
+This is a portfolio which displays some of the work that I have done so far in my Bootcamp class.
+I created this portfolio with future employers in mind. This is a space for me to display what I know and show it with the project webpages and corresponding code links. 
 
 ### Usage:
 Deployed link: https://akaur09.github.io/upgraded-portfolio/
