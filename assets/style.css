@@ -2,9 +2,27 @@
 /* neutral colors that are inviting and easy on the eyes */
 
 /* resize images */
+:root{
+    font-family: cursive;
+    background-color: rgb(125, 223, 251);
+}
 
+nav{
+    background-color: rgb(45, 132, 245);
+}
+h4{
+    font-family: cursive;
+}
+.aboutme{
+    font-family: sans-serif;
+}
 .projimg{
     width: 400px;
     height: 300px;
     border-style: groove;
+}
+
+
+@media only screen and (max-device-width: 480px) {
+
 }
