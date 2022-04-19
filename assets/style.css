@@ -2,3 +2,9 @@
 /* neutral colors that are inviting and easy on the eyes */
 
 /* resize images */
+
+.projimg{
+    width: 400px;
+    height: 300px;
+    border-style: groove;
+}
